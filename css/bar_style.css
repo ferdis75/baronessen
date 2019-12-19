@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+    padding-top: 50px;
+    padding-top: 50px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: powderblue;
+}
+footer {
+    text-align: center;
+    padding: 50px;
+}
+h1 {
+    font-family: 'Smythe', cursive;
+}
+main img {
+    max-width: 50%;
+}
